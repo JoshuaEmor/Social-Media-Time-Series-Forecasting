@@ -1,7 +1,5 @@
 # Social-Media-Time-Series-Forecasting
 
-# Social Media Time Series Forecasting
-
 Forecasting social media activity on Instagram, Facebook and YouTube using three different time series methods: **ARIMA/SARIMA**, **Prophet** and a **GRU neural network**.
 
 This was a group project for **BCO6008 Predictive Analytics** at Victoria University (group of three). It combines a short literature review with three hands-on forecasting projects.
